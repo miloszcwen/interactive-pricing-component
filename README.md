@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](https://raw.githubusercontent.com/miloszcwen/interactive-pricing-component/main/images/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/miloszcwen/interactive-pricing-component/main/images/Screenshot.png)
 
 
 
